@@ -1,0 +1,10 @@
+WikinewsKeyphraseCorpus
+
+This corpus has been made for the evaluation of automatic keyphrase extraction
+systems. It contains 100 documents published on WikiNews between May 2012 and
+December 2012.
+
+The file called ref contains the combined reference keyphrases given by at least
+three annotators (students). As for the file ref_3.xml contains the keyphrases,
+associated for each document, without combination.
+
